@@ -98,8 +98,4 @@ Hi there 👋
 
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=DanielRosalesAlanis&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="DanielRosalesAlanis's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRosalesAlanis&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="DanielRosalesAlanis's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=DanielRosalesAlanis&theme=dark&hide_border=true" alt="DanielRosalesAlanis's GitHub Stats" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danielrosalesalanis&theme=highcontrast&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
